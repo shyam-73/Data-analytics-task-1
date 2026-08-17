@@ -1,4 +1,4 @@
-# 📊 Data Analytics Task 1 — Data Cleaning & Preprocessing
+# 📊 Data Analytics Task 1 - Data Cleaning & Preprocessing
 
 A practical **Data Analytics project focused on data cleaning, preprocessing, validation, and data quality analysis** using Python, Pandas, and Excel.
 
